@@ -11,6 +11,7 @@ namespace try2_local_rep
         static void Main(string[] args)
         {
             //njdksfjkdsnfjkds
+            //коммиииитик 2
         }
     }
 }
