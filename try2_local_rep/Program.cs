@@ -10,7 +10,7 @@ namespace try2_local_rep
     {
         static void Main(string[] args)
         {
-            //njdksfjkdsnfjkds
+            //njdksfjkdjkds
             //коммиииитик 2
             //ихменение 3
         }
