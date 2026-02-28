@@ -12,7 +12,6 @@ namespace try2_local_rep
         {
             //njdksfjkdsnfjkds
             //коммиииитик 2
-            //ихменение 3
         }
     }
 }
