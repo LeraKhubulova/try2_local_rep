@@ -8,6 +8,6 @@ namespace try2_local_rep
 {
     internal class Class2
     {
-        //ekfdles
+        //ekfdle
     }
 }
